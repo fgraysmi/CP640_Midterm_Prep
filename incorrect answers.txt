@@ -1,0 +1,2 @@
+The covariance is
+Which of the following techniques are used to find the best decision boundary in logistic regression?
