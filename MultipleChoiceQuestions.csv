@@ -36,3 +36,10 @@ A model hyperparameter is:,Internal to the model and can be estimated from the d
 Some different methods of feature scaling include:,Min-Max Scaling,Standard Scaling,Normalized Scaling,Mean Scaling,(Empty),"A,B"
 Min-Max Scaling is:,[x-min(x)]/[max(x)-min(x)],(x-x̄)/σ,(Empty),(Empty),(Empty),A
 Standard Scaling is:,[x-min(x)]/[max(x)-min(x)],(x-x̄)/σ,(Empty),(Empty),(Empty),B
+Select the following methods of finding the distance between points for a KNN algorithm,Euclidean Distance,Hamming Distance,Manhattan Distance,Minkowski Distance,(Empty),"A,B,C,D"
+The methods of demensionality reduction are:,Feature Elimination,Feature extraction,Feature deduplication,Feature duplication,(Empty),"A,B"
+Orthogonal transformation\:,The distance between the origin and the vector,Involves finding the unit vectors of a transformation,A linear transformation of that preserves the inner product,(Empty),(Empty),C
+An Eigenvector:,Is a vector which stays the same even when transformed by a matrix,Is a value multiplied by a vector that when transformed by a matrix remains the same,(Empty),(Empty),(Empty),A
+An Eigenvalue:,Is a vector which stays the same even when transformed by a matrix,Is a value multiplied by a vector that when transformed by a matrix remains the same,(Empty),(Empty),(Empty),B
+t-Distributed Stochastic Neighbor Embedding (t-SNE):,Is an unsupervised algorithm used for dimensionality reduction,Is an supervised algorithm used for dimensionality reduction,Is mainly used for visualization,Cannot be used for visualization,(Empty),"A,C"
+Generative models,are models which find the decision boundary between the classes,Are models which explicitly find the distribution of each class,Include support vector machines,Include Naïve Bayes,(Empty),"B,D"
