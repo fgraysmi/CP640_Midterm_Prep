@@ -43,3 +43,6 @@ An Eigenvector:,Is a vector which stays the same even when transformed by a matr
 An Eigenvalue:,Is a vector which stays the same even when transformed by a matrix,Is a value multiplied by a vector that when transformed by a matrix remains the same,(Empty),(Empty),(Empty),B
 t-Distributed Stochastic Neighbor Embedding (t-SNE):,Is an unsupervised algorithm used for dimensionality reduction,Is an supervised algorithm used for dimensionality reduction,Is mainly used for visualization,Cannot be used for visualization,(Empty),"A,C"
 Generative models,are models which find the decision boundary between the classes,Are models which explicitly find the distribution of each class,Include support vector machines,Include Naïve Bayes,(Empty),"B,D"
+When does a neural network model become a deep learning model?,When the dimensionality of the data increases,When the number of samples in the training data increases,When the number of hidden layers increases,All of the above,(Empty),C
+Different options for activation functions are:,Linear,Sigmoid,Tan(h),Rectified Linear Unit (ReLU),Leaky ReLU,"A,B,C,D,E"
+Some forms of neural network regularization are:,Dropout,Parameter norm penalties,Early stopping,Gradient descent,(Empty),"A,B,C"
